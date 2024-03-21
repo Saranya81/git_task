@@ -1,4 +1,4 @@
-                                                                                             GIT TASK REPOSITORY
+GIT TASK REPOSITORY
 This repository showcases various Git operations and how various branches collabrates without conflict 🚀. Explore the commit history, branches, and changes made to the repository.
 
 Branches 🌿
