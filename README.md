@@ -3,23 +3,29 @@ This repository showcases various Git operations and how various branches collab
 
 Branches 🌿
 Three branches are available:
+
 main
 frontend
 backend
 
 Git Commands and Activities 🛠️
-Adding and Committing Changes
+
+Adding and Committing Changes:
 git add <file>
 git commit -m "<message>"
-Pushing Changes to Remote Repository
+
+Pushing Changes to Remote Repository:
 git push
-Pulling Changes from Remote Repository
+
+Pulling Changes from Remote Repository:
 git pull
-Creating and Switching Branches
+
+Creating and Switching Branches:
 git checkout -b <branch>
 git branch
 git checkout <branch>
-Resolving Merge Conflicts
+
+Resolving Merge Conflicts:
 git diff
 git status
 
