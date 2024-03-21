@@ -4,9 +4,9 @@ This repository showcases various Git operations and how various branches collab
 Branches 🌿
 Three branches are available:
 
-main
-frontend
-backend
+1.main
+2.frontend
+3.backend
 
 Git Commands and Activities 🛠️
 
@@ -32,10 +32,14 @@ git status
 ![Screenshot 2024-03-20 202328](https://github.com/Saranya81/git_task/assets/124616598/5a4cddb7-4814-437c-bbe0-9db6884e3225)
 
 
+
 Lessons Learned 📝
 Through these Git commands and activities, I've gained valuable experience in:
 
 Executing basic Git operations for version control.
+
 Pushing and pulling changes between local and remote repositories.
+
 Managing branches efficiently for collaborative development.
+
 Resolving merge conflicts effectively using git diff and git status.
